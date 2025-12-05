@@ -109,11 +109,13 @@ member, manager, board 테이블과 시퀀스를 생성합니다.
 ### 🌐 접속 URL
 
 Tomcat 기본 포트(8080) 기준:
-👉 http://localhost:8080/
+👉 http://localhost:8080
 
 
 ### 👨‍💼 데이터 초기화 (관리자/유저)(SQL 파일 포함)
 
 유형	ID	PW
+
 관리자(Admin)	admin	123456
+
 회원(User)	aaaa / bbbb / cccc ...	1234
